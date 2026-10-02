@@ -1,0 +1,1 @@
+Day 1: Setup Git and Github.
