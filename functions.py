@@ -1,14 +1,15 @@
-# def greet(name):
-#     return f"Hello, {name}!"
+# Simple functions to demonstrate basic functionality
+def greet(name):
+    return f"Hello, {name}!"
 
-# def farewell(name):
-#     return f"Goodbye, {name}!"
+def farewell(name):
+    return f"Goodbye, {name}!"
 
-# greetings = greet("Jef")
-# bye = farewell("Jef")
+greetings = greet("Jef")
+bye = farewell("Jef")
 
-# print(greetings)
-# print(bye)
+print(greetings)
+print(bye)
 
 def calculate(a, b, c):
     sum = a + b + c
